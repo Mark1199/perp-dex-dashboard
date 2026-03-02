@@ -1,0 +1,1649 @@
+[
+  {
+    "date": "2025-09-09",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 179708844,
+    "unique_id": "2025-09-09_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": null
+  },
+  {
+    "date": "2025-09-10",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 370601927,
+    "unique_id": "2025-09-10_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 106.22
+  },
+  {
+    "date": "2025-09-11",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 232567239,
+    "unique_id": "2025-09-11_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -37.25
+  },
+  {
+    "date": "2025-09-12",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 214940756,
+    "unique_id": "2025-09-12_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -7.58
+  },
+  {
+    "date": "2025-09-13",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 157207253,
+    "unique_id": "2025-09-13_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -26.86
+  },
+  {
+    "date": "2025-09-14",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 169131355,
+    "unique_id": "2025-09-14_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 7.58
+  },
+  {
+    "date": "2025-09-15",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 259407088,
+    "unique_id": "2025-09-15_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 53.38
+  },
+  {
+    "date": "2025-09-16",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 331692204,
+    "unique_id": "2025-09-16_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 27.87
+  },
+  {
+    "date": "2025-09-17",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 446517245,
+    "unique_id": "2025-09-17_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 34.62
+  },
+  {
+    "date": "2025-09-18",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 382941907,
+    "unique_id": "2025-09-18_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -14.24
+  },
+  {
+    "date": "2025-09-19",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 329054921,
+    "unique_id": "2025-09-19_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -14.07
+  },
+  {
+    "date": "2025-09-20",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 262994187,
+    "unique_id": "2025-09-20_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -20.08
+  },
+  {
+    "date": "2025-09-21",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 286858199,
+    "unique_id": "2025-09-21_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 9.07
+  },
+  {
+    "date": "2025-09-22",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 359457611,
+    "unique_id": "2025-09-22_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 25.31
+  },
+  {
+    "date": "2025-09-23",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 325180445,
+    "unique_id": "2025-09-23_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -9.54
+  },
+  {
+    "date": "2025-09-24",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 479130626,
+    "unique_id": "2025-09-24_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 47.34
+  },
+  {
+    "date": "2025-09-25",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 509381334,
+    "unique_id": "2025-09-25_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 6.31
+  },
+  {
+    "date": "2025-09-26",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 642219721,
+    "unique_id": "2025-09-26_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 26.08
+  },
+  {
+    "date": "2025-09-27",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 551570395,
+    "unique_id": "2025-09-27_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -14.12
+  },
+  {
+    "date": "2025-09-28",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 443216122,
+    "unique_id": "2025-09-28_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -19.64
+  },
+  {
+    "date": "2025-09-29",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 892596171,
+    "unique_id": "2025-09-29_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 101.39
+  },
+  {
+    "date": "2025-09-30",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1063848037,
+    "unique_id": "2025-09-30_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 19.19
+  },
+  {
+    "date": "2025-10-01",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1732409172,
+    "unique_id": "2025-10-01_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 62.84
+  },
+  {
+    "date": "2025-10-02",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1690766521,
+    "unique_id": "2025-10-02_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -2.4
+  },
+  {
+    "date": "2025-10-03",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1607223101,
+    "unique_id": "2025-10-03_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -4.94
+  },
+  {
+    "date": "2025-10-04",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1156879144,
+    "unique_id": "2025-10-04_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -28.02
+  },
+  {
+    "date": "2025-10-05",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1317936465,
+    "unique_id": "2025-10-05_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 13.92
+  },
+  {
+    "date": "2025-10-06",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1152436908,
+    "unique_id": "2025-10-06_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -12.56
+  },
+  {
+    "date": "2025-10-07",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1156828709,
+    "unique_id": "2025-10-07_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 0.38
+  },
+  {
+    "date": "2025-10-08",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 782733985,
+    "unique_id": "2025-10-08_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -32.34
+  },
+  {
+    "date": "2025-10-09",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1181616221,
+    "unique_id": "2025-10-09_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 50.96
+  },
+  {
+    "date": "2025-10-10",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1243873252,
+    "unique_id": "2025-10-10_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 5.27
+  },
+  {
+    "date": "2025-10-11",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 296745250,
+    "unique_id": "2025-10-11_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -76.14
+  },
+  {
+    "date": "2025-10-12",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 824948478,
+    "unique_id": "2025-10-12_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 178.0
+  },
+  {
+    "date": "2025-10-13",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 871867492,
+    "unique_id": "2025-10-13_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 5.69
+  },
+  {
+    "date": "2025-10-14",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 961915352,
+    "unique_id": "2025-10-14_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 10.33
+  },
+  {
+    "date": "2025-10-15",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 872820920,
+    "unique_id": "2025-10-15_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -9.26
+  },
+  {
+    "date": "2025-10-16",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 912584436,
+    "unique_id": "2025-10-16_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 4.56
+  },
+  {
+    "date": "2025-10-17",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 612929674,
+    "unique_id": "2025-10-17_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -32.84
+  },
+  {
+    "date": "2025-10-18",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 792482701,
+    "unique_id": "2025-10-18_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 29.29
+  },
+  {
+    "date": "2025-10-19",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 434984294,
+    "unique_id": "2025-10-19_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -45.11
+  },
+  {
+    "date": "2025-10-20",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 589213938,
+    "unique_id": "2025-10-20_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 35.46
+  },
+  {
+    "date": "2025-10-21",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1211295470,
+    "unique_id": "2025-10-21_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 105.58
+  },
+  {
+    "date": "2025-10-22",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 862286547,
+    "unique_id": "2025-10-22_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -28.81
+  },
+  {
+    "date": "2025-10-23",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 632552171,
+    "unique_id": "2025-10-23_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -26.64
+  },
+  {
+    "date": "2025-10-24",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 685062601,
+    "unique_id": "2025-10-24_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 8.3
+  },
+  {
+    "date": "2025-10-25",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 373190170,
+    "unique_id": "2025-10-25_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -45.52
+  },
+  {
+    "date": "2025-10-26",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 730267243,
+    "unique_id": "2025-10-26_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 95.68
+  },
+  {
+    "date": "2025-10-27",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 836651416,
+    "unique_id": "2025-10-27_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 14.57
+  },
+  {
+    "date": "2025-10-28",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 840817316,
+    "unique_id": "2025-10-28_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 0.5
+  },
+  {
+    "date": "2025-10-29",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 844202744,
+    "unique_id": "2025-10-29_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 0.4
+  },
+  {
+    "date": "2025-10-30",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1455060926,
+    "unique_id": "2025-10-30_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 72.36
+  },
+  {
+    "date": "2025-10-31",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 929306043,
+    "unique_id": "2025-10-31_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -36.13
+  },
+  {
+    "date": "2025-11-01",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 431146357,
+    "unique_id": "2025-11-01_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -53.61
+  },
+  {
+    "date": "2025-11-02",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 421148707,
+    "unique_id": "2025-11-02_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -2.32
+  },
+  {
+    "date": "2025-11-03",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 895717795,
+    "unique_id": "2025-11-03_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 112.68
+  },
+  {
+    "date": "2025-11-04",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1159661576,
+    "unique_id": "2025-11-04_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 29.47
+  },
+  {
+    "date": "2025-11-05",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 964606681,
+    "unique_id": "2025-11-05_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -16.82
+  },
+  {
+    "date": "2025-11-06",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1062894492,
+    "unique_id": "2025-11-06_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 10.19
+  },
+  {
+    "date": "2025-11-07",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 924454390,
+    "unique_id": "2025-11-07_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -13.02
+  },
+  {
+    "date": "2025-11-08",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 657013024,
+    "unique_id": "2025-11-08_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -28.93
+  },
+  {
+    "date": "2025-11-09",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 596373819,
+    "unique_id": "2025-11-09_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -9.23
+  },
+  {
+    "date": "2025-11-10",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 979953255,
+    "unique_id": "2025-11-10_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 64.32
+  },
+  {
+    "date": "2025-11-11",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 932393754,
+    "unique_id": "2025-11-11_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -4.85
+  },
+  {
+    "date": "2025-11-12",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 775681713,
+    "unique_id": "2025-11-12_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -16.81
+  },
+  {
+    "date": "2025-11-13",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1235689942,
+    "unique_id": "2025-11-13_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 59.3
+  },
+  {
+    "date": "2025-11-14",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1440682603,
+    "unique_id": "2025-11-14_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 16.59
+  },
+  {
+    "date": "2025-11-15",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 486056489,
+    "unique_id": "2025-11-15_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -66.26
+  },
+  {
+    "date": "2025-11-16",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 930375962,
+    "unique_id": "2025-11-16_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 91.41
+  },
+  {
+    "date": "2025-11-17",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 736452970,
+    "unique_id": "2025-11-17_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -20.84
+  },
+  {
+    "date": "2025-11-18",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 660320982,
+    "unique_id": "2025-11-18_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -10.34
+  },
+  {
+    "date": "2025-11-19",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 715330659,
+    "unique_id": "2025-11-19_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 8.33
+  },
+  {
+    "date": "2025-11-20",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 764060757,
+    "unique_id": "2025-11-20_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 6.81
+  },
+  {
+    "date": "2025-11-21",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1508604012,
+    "unique_id": "2025-11-21_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 97.45
+  },
+  {
+    "date": "2025-11-22",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 491737452,
+    "unique_id": "2025-11-22_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -67.4
+  },
+  {
+    "date": "2025-11-23",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 940154147,
+    "unique_id": "2025-11-23_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 91.19
+  },
+  {
+    "date": "2025-11-24",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1098966358,
+    "unique_id": "2025-11-24_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 16.89
+  },
+  {
+    "date": "2025-11-25",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 765187486,
+    "unique_id": "2025-11-25_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -30.37
+  },
+  {
+    "date": "2025-11-26",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 549044801,
+    "unique_id": "2025-11-26_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -28.25
+  },
+  {
+    "date": "2025-11-27",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 267097593,
+    "unique_id": "2025-11-27_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -51.35
+  },
+  {
+    "date": "2025-11-28",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 820062268,
+    "unique_id": "2025-11-28_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 207.03
+  },
+  {
+    "date": "2025-11-29",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 523620991,
+    "unique_id": "2025-11-29_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -36.15
+  },
+  {
+    "date": "2025-11-30",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 539636891,
+    "unique_id": "2025-11-30_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 3.06
+  },
+  {
+    "date": "2025-12-01",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 630030843,
+    "unique_id": "2025-12-01_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 16.75
+  },
+  {
+    "date": "2025-12-02",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 732429757,
+    "unique_id": "2025-12-02_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 16.25
+  },
+  {
+    "date": "2025-12-03",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 742109997,
+    "unique_id": "2025-12-03_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 1.32
+  },
+  {
+    "date": "2025-12-04",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 631723777,
+    "unique_id": "2025-12-04_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -14.87
+  },
+  {
+    "date": "2025-12-05",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 683455462,
+    "unique_id": "2025-12-05_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 8.19
+  },
+  {
+    "date": "2025-12-06",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 347411359,
+    "unique_id": "2025-12-06_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -49.17
+  },
+  {
+    "date": "2025-12-07",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 772374657,
+    "unique_id": "2025-12-07_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 122.32
+  },
+  {
+    "date": "2025-12-08",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 676301500,
+    "unique_id": "2025-12-08_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -12.44
+  },
+  {
+    "date": "2025-12-09",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 746466075,
+    "unique_id": "2025-12-09_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 10.37
+  },
+  {
+    "date": "2025-12-10",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 845165182,
+    "unique_id": "2025-12-10_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 13.22
+  },
+  {
+    "date": "2025-12-11",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 706804315,
+    "unique_id": "2025-12-11_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -16.37
+  },
+  {
+    "date": "2025-12-12",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 715388043,
+    "unique_id": "2025-12-12_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 1.21
+  },
+  {
+    "date": "2025-12-13",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 326939690,
+    "unique_id": "2025-12-13_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -54.3
+  },
+  {
+    "date": "2025-12-14",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 765763711,
+    "unique_id": "2025-12-14_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 134.22
+  },
+  {
+    "date": "2025-12-15",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 866441675,
+    "unique_id": "2025-12-15_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 13.15
+  },
+  {
+    "date": "2025-12-16",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 641124507,
+    "unique_id": "2025-12-16_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -26.0
+  },
+  {
+    "date": "2025-12-17",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 709317657,
+    "unique_id": "2025-12-17_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 10.64
+  },
+  {
+    "date": "2025-12-18",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 632845724,
+    "unique_id": "2025-12-18_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -10.78
+  },
+  {
+    "date": "2025-12-19",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 563351156,
+    "unique_id": "2025-12-19_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -10.98
+  },
+  {
+    "date": "2025-12-20",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 234715527,
+    "unique_id": "2025-12-20_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -58.34
+  },
+  {
+    "date": "2025-12-21",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 533271718,
+    "unique_id": "2025-12-21_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 127.2
+  },
+  {
+    "date": "2025-12-22",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 623066257,
+    "unique_id": "2025-12-22_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 16.84
+  },
+  {
+    "date": "2025-12-23",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 629361824,
+    "unique_id": "2025-12-23_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 1.01
+  },
+  {
+    "date": "2025-12-24",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 514066047,
+    "unique_id": "2025-12-24_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -18.32
+  },
+  {
+    "date": "2025-12-25",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 551639150,
+    "unique_id": "2025-12-25_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 7.31
+  },
+  {
+    "date": "2025-12-26",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 542144980,
+    "unique_id": "2025-12-26_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -1.72
+  },
+  {
+    "date": "2025-12-27",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 272732637,
+    "unique_id": "2025-12-27_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -49.69
+  },
+  {
+    "date": "2025-12-28",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 330630895,
+    "unique_id": "2025-12-28_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 21.23
+  },
+  {
+    "date": "2025-12-29",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 614195646,
+    "unique_id": "2025-12-29_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 85.76
+  },
+  {
+    "date": "2025-12-30",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 596371902,
+    "unique_id": "2025-12-30_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -2.9
+  },
+  {
+    "date": "2025-12-31",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 601173054,
+    "unique_id": "2025-12-31_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 0.81
+  },
+  {
+    "date": "2026-01-01",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 388145631,
+    "unique_id": "2026-01-01_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -35.44
+  },
+  {
+    "date": "2026-01-02",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 736571647,
+    "unique_id": "2026-01-02_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 89.77
+  },
+  {
+    "date": "2026-01-03",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 622112773,
+    "unique_id": "2026-01-03_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -15.54
+  },
+  {
+    "date": "2026-01-04",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 677240504,
+    "unique_id": "2026-01-04_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 8.86
+  },
+  {
+    "date": "2026-01-05",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 718319007,
+    "unique_id": "2026-01-05_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 6.07
+  },
+  {
+    "date": "2026-01-06",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 942213289,
+    "unique_id": "2026-01-06_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 31.17
+  },
+  {
+    "date": "2026-01-07",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 981120172,
+    "unique_id": "2026-01-07_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 4.13
+  },
+  {
+    "date": "2026-01-08",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 953972685,
+    "unique_id": "2026-01-08_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -2.77
+  },
+  {
+    "date": "2026-01-09",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 957788849,
+    "unique_id": "2026-01-09_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 0.4
+  },
+  {
+    "date": "2026-01-10",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 453592562,
+    "unique_id": "2026-01-10_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -52.64
+  },
+  {
+    "date": "2026-01-11",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 630466544,
+    "unique_id": "2026-01-11_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 38.99
+  },
+  {
+    "date": "2026-01-12",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 955393035,
+    "unique_id": "2026-01-12_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 51.54
+  },
+  {
+    "date": "2026-01-13",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1098357200,
+    "unique_id": "2026-01-13_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 14.96
+  },
+  {
+    "date": "2026-01-14",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 952570679,
+    "unique_id": "2026-01-14_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -13.27
+  },
+  {
+    "date": "2026-01-15",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 928600767,
+    "unique_id": "2026-01-15_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -2.52
+  },
+  {
+    "date": "2026-01-16",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 811483874,
+    "unique_id": "2026-01-16_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -12.61
+  },
+  {
+    "date": "2026-01-17",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 400399567,
+    "unique_id": "2026-01-17_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -50.66
+  },
+  {
+    "date": "2026-01-18",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 699850124,
+    "unique_id": "2026-01-18_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 74.79
+  },
+  {
+    "date": "2026-01-19",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 836654822,
+    "unique_id": "2026-01-19_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 19.55
+  },
+  {
+    "date": "2026-01-20",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 969572530,
+    "unique_id": "2026-01-20_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 15.89
+  },
+  {
+    "date": "2026-01-21",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 963123858,
+    "unique_id": "2026-01-21_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -0.67
+  },
+  {
+    "date": "2026-01-22",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 775617358,
+    "unique_id": "2026-01-22_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -19.47
+  },
+  {
+    "date": "2026-01-23",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 879036643,
+    "unique_id": "2026-01-23_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 13.33
+  },
+  {
+    "date": "2026-01-24",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 324474963,
+    "unique_id": "2026-01-24_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -63.09
+  },
+  {
+    "date": "2026-01-25",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 723516206,
+    "unique_id": "2026-01-25_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 122.98
+  },
+  {
+    "date": "2026-01-26",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 697249436,
+    "unique_id": "2026-01-26_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -3.63
+  },
+  {
+    "date": "2026-01-27",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 746456096,
+    "unique_id": "2026-01-27_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 7.06
+  },
+  {
+    "date": "2026-01-28",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 876215143,
+    "unique_id": "2026-01-28_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 17.38
+  },
+  {
+    "date": "2026-01-29",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 862110749,
+    "unique_id": "2026-01-29_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -1.61
+  },
+  {
+    "date": "2026-01-30",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 956997444,
+    "unique_id": "2026-01-30_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 11.01
+  },
+  {
+    "date": "2026-01-31",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 886124133,
+    "unique_id": "2026-01-31_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -7.41
+  },
+  {
+    "date": "2026-02-01",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 978625139,
+    "unique_id": "2026-02-01_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 10.44
+  },
+  {
+    "date": "2026-02-02",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1002665358,
+    "unique_id": "2026-02-02_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 2.46
+  },
+  {
+    "date": "2026-02-03",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 886878643,
+    "unique_id": "2026-02-03_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -11.55
+  },
+  {
+    "date": "2026-02-04",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1023818686,
+    "unique_id": "2026-02-04_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 15.44
+  },
+  {
+    "date": "2026-02-05",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 1032418154,
+    "unique_id": "2026-02-05_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 0.84
+  },
+  {
+    "date": "2026-02-06",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 959405468,
+    "unique_id": "2026-02-06_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -7.07
+  },
+  {
+    "date": "2026-02-07",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 870133905,
+    "unique_id": "2026-02-07_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -9.3
+  },
+  {
+    "date": "2026-02-08",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 880960744,
+    "unique_id": "2026-02-08_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 1.24
+  },
+  {
+    "date": "2026-02-09",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 903317138,
+    "unique_id": "2026-02-09_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 2.54
+  },
+  {
+    "date": "2026-02-10",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 911051403,
+    "unique_id": "2026-02-10_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 0.86
+  },
+  {
+    "date": "2026-02-11",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 952841647,
+    "unique_id": "2026-02-11_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 4.59
+  },
+  {
+    "date": "2026-02-12",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 702057245,
+    "unique_id": "2026-02-12_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -26.32
+  },
+  {
+    "date": "2026-02-13",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 672357080,
+    "unique_id": "2026-02-13_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -4.23
+  },
+  {
+    "date": "2026-02-14",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 318209559,
+    "unique_id": "2026-02-14_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -52.67
+  },
+  {
+    "date": "2026-02-15",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 387102528,
+    "unique_id": "2026-02-15_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 21.65
+  },
+  {
+    "date": "2026-02-16",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 660381330,
+    "unique_id": "2026-02-16_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 70.6
+  },
+  {
+    "date": "2026-02-17",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 638470736,
+    "unique_id": "2026-02-17_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -3.32
+  },
+  {
+    "date": "2026-02-18",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 666302532,
+    "unique_id": "2026-02-18_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 4.36
+  },
+  {
+    "date": "2026-02-19",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 653429512,
+    "unique_id": "2026-02-19_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -1.93
+  },
+  {
+    "date": "2026-02-20",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 644419049,
+    "unique_id": "2026-02-20_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -1.38
+  },
+  {
+    "date": "2026-02-21",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 204226836,
+    "unique_id": "2026-02-21_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -68.31
+  },
+  {
+    "date": "2026-02-22",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 267497559,
+    "unique_id": "2026-02-22_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 30.98
+  },
+  {
+    "date": "2026-02-23",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 657172525,
+    "unique_id": "2026-02-23_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 145.67
+  },
+  {
+    "date": "2026-02-24",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 535711325,
+    "unique_id": "2026-02-24_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -18.48
+  },
+  {
+    "date": "2026-02-25",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 300147067,
+    "unique_id": "2026-02-25_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -43.97
+  },
+  {
+    "date": "2026-02-26",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 350887737,
+    "unique_id": "2026-02-26_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 16.91
+  },
+  {
+    "date": "2026-02-27",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 320038491,
+    "unique_id": "2026-02-27_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -8.79
+  },
+  {
+    "date": "2026-02-28",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 207835029,
+    "unique_id": "2026-02-28_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": -35.06
+  },
+  {
+    "date": "2026-03-01",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 211938468,
+    "unique_id": "2026-03-01_pacifica",
+    "market_share_pct": 100.0,
+    "growth_rate_pct": 1.97
+  },
+  {
+    "date": "2026-03-02",
+    "project": "Aster",
+    "blockchain": "Off Chain",
+    "volume": 2559664157,
+    "unique_id": "2026-03-02_aster",
+    "market_share_pct": 16.09,
+    "growth_rate_pct": null
+  },
+  {
+    "date": "2026-03-02",
+    "project": "EdgeX",
+    "blockchain": "edgeX",
+    "volume": 2192729112,
+    "unique_id": "2026-03-02_edgex",
+    "market_share_pct": 13.78,
+    "growth_rate_pct": null
+  },
+  {
+    "date": "2026-03-02",
+    "project": "Extended",
+    "blockchain": "Ethereum",
+    "volume": 997973350,
+    "unique_id": "2026-03-02_extended",
+    "market_share_pct": 6.27,
+    "growth_rate_pct": null
+  },
+  {
+    "date": "2026-03-02",
+    "project": "GRVT",
+    "blockchain": "GRVT",
+    "volume": 980541938,
+    "unique_id": "2026-03-02_grvt",
+    "market_share_pct": 6.16,
+    "growth_rate_pct": null
+  },
+  {
+    "date": "2026-03-02",
+    "project": "Hyperliquid",
+    "blockchain": "Hyperliquid L1",
+    "volume": 5120056611,
+    "unique_id": "2026-03-02_hyperliquid",
+    "market_share_pct": 32.19,
+    "growth_rate_pct": null
+  },
+  {
+    "date": "2026-03-02",
+    "project": "Lighter",
+    "blockchain": "zkLighter",
+    "volume": 2587364314,
+    "unique_id": "2026-03-02_lighter",
+    "market_share_pct": 16.26,
+    "growth_rate_pct": null
+  },
+  {
+    "date": "2026-03-02",
+    "project": "Pacifica",
+    "blockchain": "Solana",
+    "volume": 211938468,
+    "unique_id": "2026-03-02_pacifica",
+    "market_share_pct": 1.33,
+    "growth_rate_pct": 0.0
+  },
+  {
+    "date": "2026-03-02",
+    "project": "Paradex",
+    "blockchain": "Paradex",
+    "volume": 249561597,
+    "unique_id": "2026-03-02_paradex",
+    "market_share_pct": 1.57,
+    "growth_rate_pct": null
+  },
+  {
+    "date": "2026-03-02",
+    "project": "Variational",
+    "blockchain": "Arbitrum",
+    "volume": 1007859657,
+    "unique_id": "2026-03-02_variational",
+    "market_share_pct": 6.34,
+    "growth_rate_pct": null
+  }
+]

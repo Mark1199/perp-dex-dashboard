@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perp DEX Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+            background: #0f1117;
+            color: #e1e4e8;
+            padding: 20px;
+        }
+        h1 { font-size: 1.5rem; margin-bottom: 4px; }
+        .subtitle { color: #8b949e; font-size: 0.85rem; margin-bottom: 24px; }
+        .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px; }
+        @media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
+        .card {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            padding: 16px;
+        }
+        .card h2 { font-size: 0.95rem; color: #8b949e; margin-bottom: 12px; }
+        .card canvas { width: 100% !important; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.85rem;
+        }
+        th, td {
+            padding: 8px 12px;
+            text-align: right;
+            border-bottom: 1px solid #21262d;
+        }
+        th { color: #8b949e; font-weight: 500; }
+        td:first-child, th:first-child { text-align: left; }
+        .positive { color: #3fb950; }
+        .negative { color: #f85149; }
+        .loading { text-align: center; padding: 60px; color: #8b949e; }
+        .full-width { grid-column: 1 / -1; }
+    </style>
+</head>
+<body>
+    <h1>Perp DEX Competitive Dashboard</h1>
+    <p class="subtitle" id="update-time">Loading data...</p>
+
+    <div class="grid">
+        <div class="card full-width">
+            <h2>Daily Volume (USD)</h2>
+            <canvas id="volumeChart" height="80"></canvas>
+        </div>
+        <div class="card">
+            <h2>Market Share (Latest)</h2>
+            <canvas id="shareChart"></canvas>
+        </div>
+        <div class="card">
+            <h2>Volume Ranking</h2>
+            <table id="rankTable">
+                <thead><tr><th>Protocol</th><th>24h Volume</th><th>Share</th><th>Growth</th></tr></thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="card" style="margin-bottom:20px">
+        <h2>Full Data Table</h2>
+        <div style="overflow-x:auto">
+            <table id="fullTable">
+                <thead><tr><th>Date</th><th>Protocol</th><th>Chain</th><th>Volume</th><th>Share%</th><th>Growth%</th></tr></thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+
+<script>
+const COLORS = [
+    '#58a6ff','#3fb950','#d29922','#f85149','#bc8cff',
+    '#f0883e','#39d353','#db61a2','#79c0ff'
+];
+
+async function init() {
+    let data;
+    try {
+        const resp = await fetch('data/perp_data.json');
+        data = await resp.json();
+    } catch(e) {
+        document.getElementById('update-time').textContent = 'Failed to load data. Run the ETL first.';
+        return;
+    }
+    if (!data.length) {
+        document.getElementById('update-time').textContent = 'No data available.';
+        return;
+    }
+
+    const dates = [...new Set(data.map(r => r.date))].sort();
+    const projects = [...new Set(data.map(r => r.project))].sort();
+    const latestDate = dates[dates.length - 1];
+
+    document.getElementById('update-time').textContent =
+        `Last updated: ${latestDate} | ${data.length} records | ${projects.length} protocols`;
+
+    // Volume line chart
+    const volumeDatasets = projects.map((p, i) => ({
+        label: p,
+        data: dates.map(d => {
+            const row = data.find(r => r.date === d && r.project === p);
+            return row ? row.volume : null;
+        }),
+        borderColor: COLORS[i % COLORS.length],
+        backgroundColor: COLORS[i % COLORS.length] + '20',
+        borderWidth: 1.5,
+        pointRadius: 0,
+        tension: 0.3,
+        fill: false,
+        spanGaps: true,
+    }));
+
+    new Chart(document.getElementById('volumeChart'), {
+        type: 'line',
+        data: { labels: dates, datasets: volumeDatasets },
+        options: {
+            responsive: true,
+            interaction: { mode: 'index', intersect: false },
+            plugins: {
+                legend: { labels: { color: '#8b949e', usePointStyle: true, pointStyle: 'circle' } },
+                tooltip: {
+                    callbacks: {
+                        label: ctx => `${ctx.dataset.label}: $${formatNum(ctx.parsed.y)}`
+                    }
+                }
+            },
+            scales: {
+                x: { ticks: { color: '#484f58', maxTicksLimit: 12 }, grid: { color: '#21262d' } },
+                y: {
+                    ticks: { color: '#484f58', callback: v => '$' + formatNum(v) },
+                    grid: { color: '#21262d' }
+                }
+            }
+        }
+    });
+
+    // Market share pie
+    const latestRows = data.filter(r => r.date === latestDate && r.market_share_pct != null);
+    latestRows.sort((a, b) => (b.volume || 0) - (a.volume || 0));
+
+    new Chart(document.getElementById('shareChart'), {
+        type: 'doughnut',
+        data: {
+            labels: latestRows.map(r => r.project),
+            datasets: [{
+                data: latestRows.map(r => r.market_share_pct || 0),
+                backgroundColor: latestRows.map((_, i) => COLORS[i % COLORS.length]),
+                borderColor: '#161b22',
+                borderWidth: 2,
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: { position: 'right', labels: { color: '#8b949e', padding: 8, font: { size: 11 } } },
+                tooltip: { callbacks: { label: ctx => `${ctx.label}: ${ctx.parsed.toFixed(1)}%` } }
+            }
+        }
+    });
+
+    // Ranking table
+    const rankBody = document.querySelector('#rankTable tbody');
+    latestRows.forEach(r => {
+        const tr = document.createElement('tr');
+        const growth = r.growth_rate_pct;
+        const growthClass = growth > 0 ? 'positive' : growth < 0 ? 'negative' : '';
+        tr.innerHTML = `
+            <td>${r.project}</td>
+            <td>$${formatNum(r.volume)}</td>
+            <td>${(r.market_share_pct || 0).toFixed(1)}%</td>
+            <td class="${growthClass}">${growth != null ? (growth > 0 ? '+' : '') + growth.toFixed(1) + '%' : '-'}</td>
+        `;
+        rankBody.appendChild(tr);
+    });
+
+    // Full data table (last 30 days)
+    const recentDates = dates.slice(-30);
+    const recentData = data.filter(r => recentDates.includes(r.date));
+    recentData.sort((a, b) => b.date.localeCompare(a.date) || (b.volume||0) - (a.volume||0));
+
+    const fullBody = document.querySelector('#fullTable tbody');
+    recentData.forEach(r => {
+        const tr = document.createElement('tr');
+        const g = r.growth_rate_pct;
+        const gc = g > 0 ? 'positive' : g < 0 ? 'negative' : '';
+        tr.innerHTML = `
+            <td>${r.date}</td>
+            <td>${r.project}</td>
+            <td>${r.blockchain || '-'}</td>
+            <td>$${formatNum(r.volume)}</td>
+            <td>${r.market_share_pct != null ? r.market_share_pct.toFixed(1) + '%' : '-'}</td>
+            <td class="${gc}">${g != null ? (g > 0 ? '+' : '') + g.toFixed(1) + '%' : '-'}</td>
+        `;
+        fullBody.appendChild(tr);
+    });
+}
+
+function formatNum(n) {
+    if (n == null) return '-';
+    if (n >= 1e9) return (n / 1e9).toFixed(2) + 'B';
+    if (n >= 1e6) return (n / 1e6).toFixed(1) + 'M';
+    if (n >= 1e3) return (n / 1e3).toFixed(1) + 'K';
+    return n.toFixed(0);
+}
+
+init();
+</script>
+</body>
+</html>
