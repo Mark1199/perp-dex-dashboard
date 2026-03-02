@@ -51,4 +51,4 @@ DATA_FILE = os.path.join(DATA_DIR, "perp_data.json")
 # ---- 请求控制 ----
 MAX_RETRIES = 3
 RETRY_DELAY_SECONDS = 5
-API_CALL_INTERVAL = 6  # DefiLlama 免费额度: ~10 req/min, 留余量
+API_CALL_INTERVAL = 10  # DefiLlama 免费额度: ~10 req/min, 留足余量避免限流

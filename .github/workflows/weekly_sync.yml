@@ -18,7 +18,7 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
     permissions:
       contents: write
 
@@ -42,9 +42,9 @@ jobs:
         run: |
           cd src
           if [ "${{ inputs.mode }}" = "history" ]; then
-            python main.py --history
+            python -u main.py --history
           else
-            python main.py
+            python -u main.py
           fi
 
       - name: Commit updated data
